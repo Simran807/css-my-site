@@ -37,6 +37,12 @@ h3{
 .bottom-container{
      
 }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
 .pro{
     text-decoration: underline;
 
@@ -51,7 +57,24 @@ h3{
     left:300px;
     bottom:300px;
 }
-
+.web-img{
+    border-radius: 30%;
+    width: 25%;
+    float:left;
+    margin-right: 40px;
+}
+.soft-img{
+    border-radius: 30%;
+    width: 25%;
+    float:right;
+    margin-left: 40px;
+}
+.code-skill-description{
+    clear: left;
+}
+.code-description{
+    clear: right;
+}
   
     
 
